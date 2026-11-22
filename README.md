@@ -24,3 +24,8 @@ A beginner-friendly front-end project made with HTML, CSS, and JavaScript.
 
 ## Note
 This is a front-end demonstration project. Data is kept in browser memory and resets when the page is refreshed. The eligibility questionnaire is not a medical assessment; qualified medical staff must make all actual donation eligibility decisions.
+
+Team Members --
+Dhruv Singh Rajawat (12615177),
+Geetansh arora (12614661),  
+Sujal Kumar (12616099)               
